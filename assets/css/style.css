@@ -471,7 +471,7 @@ h6 {
 #hero {
   width: 100%;
   height: 75vh;
-  background: url("../img/hero-bg.jpg") top left;
+  background: url("../img/img_main.jpg") top left;
   background-size: cover;
   position: relative;
 }
@@ -1800,7 +1800,7 @@ section {
   transition: 0.3s;
 }
 
-#footer .footer-top .social-links a:hover {
+#footer .footer-top .social-linkhttps://www.youtube.com/watch?v=7qvfeoldvdAs a:hover {
   background: #3b8af2;
   color: #fff;
   text-decoration: none;
